@@ -1,0 +1,37 @@
+{
+  "name": "lottery-react",
+  "version": "0.1.0",
+  "description": "Front end application for lottery ethereum dapp",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhnguyennguyen/lottery-react-app.git"
+  },
+  "keywords": [
+    "lottery app",
+    "reactjs",
+    "frontend",
+    "dapp",
+    "decentralize app",
+    "smart",
+    "contract",
+    "NguyenNguyen"
+  ],
+  "author": "NguyenNguyen (nguyenbk92@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhnguyennguyen/lottery-react-app/issues"
+  },
+  "homepage": "https://github.com/thanhnguyennguyen/lottery-react-app#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4",
+    "web3": "^1.0.0-beta.26"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
